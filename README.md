@@ -1,0 +1,2 @@
+# nextjs_storybook_sample_20230310
+Next.jsアプリケーションにstorybookを入れてみるサンプルです。
